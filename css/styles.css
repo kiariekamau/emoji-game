@@ -1,3 +1,7 @@
+#confirm {
+    text-align: center;
+    padding-left: 30mm;
+}
 h1 {
     font-style: oblique;
     color: crimson;
@@ -10,7 +14,7 @@ p {
     text-align: center;
     background-color: rgb(158, 149, 137);
     color: chartreuse;
-    padding-bottom: 100mm;
+    padding-bottom: 50mm;
     display: none;
 }
 img {
