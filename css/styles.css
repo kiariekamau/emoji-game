@@ -1,0 +1,19 @@
+h1 {
+    font-style: oblique;
+    color: crimson;
+    font-size: 30mm;
+    padding-top: 90mm;
+    padding-bottom: 100mm;
+}
+p {
+    font-size: 15mm;
+    text-align: center;
+    background-color: rgb(158, 149, 137);
+    color: chartreuse;
+    padding-bottom: 100mm;
+    display: none;
+}
+img {
+    padding-left: 20%;
+    padding-top: 40mm;
+}
