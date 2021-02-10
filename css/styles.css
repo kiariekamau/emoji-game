@@ -3,12 +3,12 @@ body {
 }
 h1 {
     font-style: oblique;
-    color: crimson;
+    color: black;
     font-size: 30mm;
-    padding-top: 90mm;
-    padding-bottom: 100mm;
+    padding-top: 20mm;
+    padding-bottom: 50mm;
 }
-p {
+.emojiGame p {
     font-size: 15mm;
     text-align: center;
     background-color: rgb(158, 149, 137);
@@ -18,7 +18,7 @@ p {
 }
 img {
     padding-left: 20%;
-    padding-top: 20mm;
+    padding-top: 50mm;
 }
 #confirm {
     font-size: 10mm;
@@ -74,4 +74,28 @@ img {
     font-size: 10mm;
     padding-left: 20mm;
     text-align: center;
+}
+
+#end {
+    font-size: 20mm;
+    text-align: center;
+    color: black;
+    font-style: oblique;
+}
+#comment {
+    font-size: 5mm;
+    color: cornflowerblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#introduction {
+    font-size: 7mm;
+    color: cornflowerblue;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    color: black;
+    font-size: 6mm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
