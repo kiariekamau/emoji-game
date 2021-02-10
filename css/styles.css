@@ -1,6 +1,5 @@
-#confirm {
-    text-align: center;
-    padding-left: 30mm;
+body {
+    font-size: 15mm;
 }
 h1 {
     font-style: oblique;
@@ -14,10 +13,15 @@ p {
     text-align: center;
     background-color: rgb(158, 149, 137);
     color: chartreuse;
-    padding-bottom: 50mm;
+    padding-bottom: 20mm;
     display: none;
 }
 img {
     padding-left: 20%;
-    padding-top: 40mm;
+    padding-top: 20mm;
+}
+#confirm {
+    font-size: 10mm;
+    padding-left: 20mm;
+    text-align: center;
 }
