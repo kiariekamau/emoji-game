@@ -1,5 +1,6 @@
 body {
     font-size: 15mm;
+    color: black;
 }
 h1 {
     font-style: oblique;
@@ -8,6 +9,20 @@ h1 {
     padding-top: 20mm;
     padding-bottom: 50mm;
 }
+#introduction {
+    font-size: 15mm;
+    color: rgb(116, 2, 2);
+    font-style: italic;
+    text-align: center;
+}
+h2 {
+    font-size: 20mm;
+    color: darkgray;
+    text-align: center;
+}
+#aboutUsButton {
+    float: right;
+}
 .emojiGame p {
     font-size: 15mm;
     text-align: center;
@@ -15,6 +30,9 @@ h1 {
     color: chartreuse;
     padding-bottom: 20mm;
     display: none;
+}
+.emojiGame {
+    background-color: white;
 }
 img {
     padding-left: 20%;
@@ -88,14 +106,8 @@ img {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-#introduction {
-    font-size: 7mm;
-    color: cornflowerblue;
-    font-style: italic;
-    text-align: center;
-}
 p {
     color: black;
-    font-size: 6mm;
+    font-size: 10mm;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
