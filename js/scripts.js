@@ -44,4 +44,7 @@ $(document).ready(function(){
         $("#paragraph11").show()
     })
     
+    $("#answer12").click(function(){
+        $("#paragraph12").show()
+    })
 })
