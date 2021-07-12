@@ -47,4 +47,28 @@ $(document).ready(function(){
     $("#answer12").click(function(){
         $("#paragraph12").show()
     })
+    $("#answer13").click(function(){
+        $("#paragraph13").show()
+    })
+    $("#answer14").click(function(){
+        $("#paragraph14").show()
+    })
+    $("#answer15").click(function(){
+        $("#paragraph15").show()
+    })
+    $("#answer16").click(function(){
+        $("#paragraph16").show()
+    })
+    $("#answer17").click(function(){
+        $("#paragraph17").show()
+    })
+    $("#answer18").click(function(){
+        $("#paragraph18").show()
+    })
+    $("#answer19").click(function(){
+        $("#paragraph19").show()
+    })
+    $("#answer20").click(function(){
+        $("#paragraph20").show()
+    })
 })
